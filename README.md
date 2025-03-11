@@ -18,7 +18,7 @@ A React Native application for searching and browsing Star Wars characters using
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/sulcmartin04/star-wars-character-search-app.git
+   git clone https://github.com/asiposlajos/star-wars-search-app.git
    cd star-wars-character-search-app
    ```
 
